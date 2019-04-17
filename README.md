@@ -1,7 +1,7 @@
-# Mobile Clinic
+# Easy Ja
 
-if you feel not good...
-mobile clinic helps you to dignosis your Possible illness with some simple steps
+looking for a place for rent?
+then easyja is here for you, you can rent classrooms, Saloons and... easily
 
 ![ScreenShot](app/easyja.gif)
 
