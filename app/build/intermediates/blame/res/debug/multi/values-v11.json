@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "D:\\Projects\\easyja-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\29911b9f538bc133dbec71cc43ad17567c944efa\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 360
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Projects\\Easyja\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\29911b9f538bc133dbec71cc43ad17567c944efa\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 360
+                    }
+                }
+            }
+        ]
+    }
+]

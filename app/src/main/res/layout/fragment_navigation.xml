@@ -1,0 +1,408 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fitsSystemWindows="true"
+    android:gravity="top|right"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/white"
+        android:fitsSystemWindows="true"
+        android:gravity="top|right"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/fragment_data_rv_table"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:fitsSystemWindows="true"
+            android:gravity="top|right"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:background="@color/colorPrimary"
+                android:gravity="right|center_vertical"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="right|center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingRight="16dp"
+                    android:text="علی حسینی"
+                    android:textColor="@color/white"
+                    android:textSize="15dp">
+
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_gravity="right|center_vertical"
+                        android:padding="30dp"
+                        android:text="علی حسینی"
+                        android:textColor="@color/white"
+                        android:textSize="15dp" />
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/img"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/circle" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/credit_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center|bottom"
+                    android:gravity="center"
+                    android:padding="4dp"
+                    android:textColor="@color/white"
+                    android:textSize="15dp">
+
+
+                    <TextView
+                        android:id="@+id/credit_str"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_gravity="center|bottom"
+                        android:padding="8dp"
+                        android:text="۰"
+                        android:textColor="@color/white"
+                        android:textSize="13dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_gravity="center|bottom"
+                        android:padding="8dp"
+                        android:text="اعتبار"
+                        android:textColor="@color/white"
+                        android:textSize="12dp" />
+
+                </LinearLayout>
+            </FrameLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#999999" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/fragment_nav_item_zero"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:gravity="center_vertical|right"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/fragment_nav_txt_zero"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:paddingRight="16dp"
+                        android:text="افزایش اعتبار"
+                        android:textColor="@color/darkGray"
+                        android:textSize="14sp" />
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_marginRight="16dp"
+                        android:src="@mipmap/plus"
+                        android:tint="@color/colorPrimary" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/fragment_nav_item_first"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:gravity="center_vertical|right"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/fragment_nav_txt_first"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:paddingRight="16dp"
+                        android:text="پروفایل"
+                        android:textColor="@color/darkGray"
+                        android:textSize="14sp" />
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_marginRight="16dp"
+                        android:src="@mipmap/ic_profile"
+                        android:tint="@color/colorPrimary" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_second"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:id="@+id/fragment_nav_txt_second"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingRight="16dp"
+                    android:text="رزروهای پیش رو"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:src="@mipmap/ic_reserve"
+                    android:tint="@color/colorPrimary" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_third"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:visibility="gone"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/fragment_nav_txt_third"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingRight="16dp"
+                    android:text="پرداخت ها"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:src="@mipmap/ic_card"
+                    android:tint="@color/colorPrimary" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_forth"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:id="@+id/fragment_nav_txt_forth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingRight="16dp"
+                    android:text="کیف پول"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:src="@mipmap/ic_wallet"
+                    android:tint="@color/colorPrimary" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_fifth"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/fragment_nav_txt_fifth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingRight="16dp"
+                    android:text="رزروهای منتخب"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:src="@mipmap/ic_favorite"
+                    android:tint="@color/colorPrimary" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_sixth"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:id="@+id/fragment_nav_txt_sixth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingRight="16dp"
+                    android:text="رزروهای گذشته"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:src="@mipmap/ic_location"
+                    android:tint="@color/colorPrimary" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_seventh"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:id="@+id/fragment_nav_txt_seventh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingRight="16dp"
+                    android:text="دعوت دوستان"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:src="@mipmap/ic_invite"
+                    android:tint="@color/colorPrimary" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_eighth"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:id="@+id/fragment_nav_txt_eighth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingRight="16dp"
+                    android:text="تماس با پشتیبانی"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:rotation="135"
+                    android:src="@mipmap/ic_call"
+                    android:tint="@color/colorPrimary" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/fragment_nav_item_exit"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:gravity="center_vertical|right"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingRight="16dp"
+            android:text="خروج"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginRight="16dp"
+            android:src="@mipmap/ic_exit"
+            android:tint="@color/white" />
+
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Projects\\Easyja\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_crop_image.xml",
+        "source": "D:\\Projects\\Easyja\\app\\src\\main\\res\\menu\\menu_crop_image.xml"
+    },
+    {
+        "merged": "D:\\Projects\\easyja-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\easyja-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_crop_image.xml",
+        "source": "D:\\Projects\\easyja-master\\app\\src\\main\\res\\menu\\menu_crop_image.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Easyja\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
+        "source": "D:\\Projects\\Easyja\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\easyja-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
+        "source": "D:\\Projects\\easyja-master\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Easyja\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\menu\\crop_image_menu.xml"
+    }
+]

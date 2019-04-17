@@ -1,0 +1,354 @@
+[
+    {
+        "outputFile": "D:\\Projects\\Easyja\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rGT\\values-es-rGT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 114,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 46,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 46,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 55,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 55,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 62,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 62,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 85,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 85,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 81,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 81,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 76,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 76,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 75,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 75,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 78,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 78,
+                        "endOffset": 731
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Projects\\easyja-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rGT\\values-es-rGT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 114,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 46,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 46,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 55,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 55,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 62,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 62,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 85,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 85,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 81,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 81,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 76,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 76,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 75,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 75,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 78,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 78,
+                        "endOffset": 731
+                    }
+                }
+            }
+        ]
+    }
+]

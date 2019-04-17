@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\easyja-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget1_info.xml",
+        "source": "D:\\Projects\\easyja-master\\app\\src\\main\\res\\xml\\widget1_info.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Easyja\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget1_info.xml",
+        "source": "D:\\Projects\\Easyja\\app\\src\\main\\res\\xml\\widget1_info.xml"
+    }
+]

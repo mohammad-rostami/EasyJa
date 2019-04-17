@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\cbc32a89cc54f575dacd728914c9b838a01cde07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="33a06a4cd617ea79d394cbf2e2361fd273f2ecb7">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_239f9f360fe941653a7aee33326d2056f491f2f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\7d91f8d89bea96a5f0b19dbee16ab745cec4d964\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a4f81a342ac6bace97ad1420eb47fc11ab749a03">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09d809825e8fc1d6aa00039e76754e8a5ead8068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\baa254691cba8c6977e5070352b2957d375223c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5ab7b6af3e80111065d8aae2ab9694939bf4d289">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8f51e69ef04396588266501c558c46ece5e9ca7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\easyja-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_afa51c6ab202cfee5459afee751860b43caf334e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\2d4b452777544462d1eae1cbdccef20583fbacc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56edfd79807c8f9fc6b6c196b9bdd752993d819b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\4fadf7e9d7cf14cfab2223395869a84911c6b6cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45ddfe0f32471a05d882753890446dfdc06dcbae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\83bb409045f121f93c08f490f2415c468b238b20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6435b46a586b855e0db91a1b8591ba39c858028c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\6714bdbc5f8d2dace1790a2f9f0cb1dd80ca9396\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d98b8b78c73894a1a04fb61338a4dc77e6a808e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\95e59914a217af4a36d44bf95bcca5fd233f8915\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2e62a28e7a8ebe7b2ae508c4ef6666a2d2a606ab">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a94a4a5560f650d5a529791fe219939e59244a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\691016dd975f232fc3f03d4d64bc50114be76fe5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b49a35edc3c04e5394bb287a7281d097a12968a7">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_040743a096afb53c4cc8df8fcbc8ab915d044f1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\e39821d8e22c51bbabbac1ff2a38c028545c3ea5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="791ae2023f98dca602015cd1661accbd4590ed03">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc74c28c015dfb2e747efa5127be23dc80ad48e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_7a620bfe4a4abf710156c63fff3b6927138ef4d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\29911b9f538bc133dbec71cc43ad17567c944efa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="40db7bc029c1344cfe2e16200a009043f6561d75">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8de2f681d9bde31bb36c9877f4fcb68c3e586470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.1.1_2f356b4d74f0522ba76c1267af4cbe8899ed3fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\1839ebb9bc3819957de26f70384e03c53be06172\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3d7c5f5c53741bfbae91e2bc1068254c388356fd">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa245ce5fa12cbafb7bcaf5f270a6669900680f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\edb61876c8a8f7f79542b43f1cab242f70fe214a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b739661c7142579d33f42801cfb71882cd217727">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dea2429aa04681e19ba45fd36457863223aac2ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\1064659e093be26ef55f30737405e09f51a91e47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a2f3cb3df170666c6db106758a97d3a91b30d585">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78ed232d9be37ff755a8aceec9569ec5bb06772e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\21c7db23fb290c0eef2e631ac3118c8c7710acb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="bf7ecf1e52a6cf9aac9367c5d5ff72d6d1c78c98">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b239b658453b5249456d3d515c824c483deb96f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\480bec81f99c8f8ceb1db449ca501bd443b0e7fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e8a71b32591318007ac809940bbcd57f2de5516e">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a9cf4f0808fe52ee81c6d2b02e17f8a4f27d5b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_24fa3ad64500b567dace7a943e9d982290eec019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\0171979635dbea556f27930b30794aeee86a0c37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="88a6a291986ced98700a44cdc3933559cc63e993">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e69c7b7ffd05a0da8e726f66b2aa5afb7f48d19d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\ef4d6dc003a5958c03b5d83b339e49f205950fbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97ca04633fb3c392f617102f0f6532b64a2c3a1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\846ea006850ff72f167f5bde6adf297ae2a32128\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_722d50053a8100bada3e08462199fb8a3a2ca576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.1.0_9ac7e3101ecf792198af10ccd2548816e2f78916\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\d27664a877c1b4df28f63fc4227733cbf59b34fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9574b9f97966d922a8d6d68f1a479509efb2537e">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75748ff941a99d075d1bdd9c0fbc7bc984a6ab16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\a85d30a52d437c898d6dca3469f85d7b2a08f650\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bb5071b0d8a2abf12c81e858bca871273d3ebee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\018845ceed3204c6fe1336bb0ebdf5944e959298\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="16f423bae182fd81553d109269f7a5e13fd1cb52">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbb5c9c8b92cf662abcedf08f9a007976e6ad00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\1f534c90ffefe039012437a085fda5893a3e01e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fc421b0511f4e492d097c84702b2a00f101fe08a">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2529f3c56a4fd956d8163ff74110005517e07b1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\7d1c976abb531a77bdafdeeee36de0f45b0b8b40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4c62842675bcb3c248c32c46e8a178a452bf5634">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21a889183a601c87d116a3ac7f2d5ffc682ac34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_937c5215ba540005ae1a135b72b35772680fb462\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\155afcb93377960fd058f0849d46e04ccbb098a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="dee40b4a01bb48be9ce0df9b5d17129ba41ccc47">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d04546eb4135890c5192ed9d7afbe1c14806f9c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.1.0_0ac364de0507fb1f895121f2b96b783365868a1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\6a935a5ee481f3cf53ab620a6ad6a73a6a3f1dcb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="97c7be4a90a5495a6e3beda08120d0fa106cfdcc">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a88a38c9ea3bb226d7ee02121c4bc66d58c8a60b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\b0007b664b5ed9d680bcdff5341b80342cc705c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="854be3fc8d945f1656d5712d4c78c81a82998d9e">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c3834c578e55cab1db2c80275c5a25eb97bac86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\62d4a058b6316ca54bfe1617fa529ef125d6d99f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39582e11c8fb537255bbee14e8df3688e5c2fe94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\89e3423555184abf8e1a74347df0bad2470c6157\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4110a32b0994f4394da4981950020baeb5025c24">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39791cb2fb846051875f49f7078ff0c8daac2805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\522c0ba5e04e50224c2520622a4fff30e679ab15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f7e3ff2cb093a99c8dc1ff3d50c176019fa5d7c1">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41629057e3b22a325d3802b5ab49df6518bdc1ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_b9b9f7959d248dbefc91054b2f20022ec0626405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\e9e30173ea8406772f0d76b7db86b558f6e24511\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61405a3529ca5bd561a52e16f32007c51e136062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\5746bdea9761f6621847b4290dfc37b574e93d85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb93b5405e1c9582f614d56cb4b8cf649545c4d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\d4d0c2e736f1704e40a63c2883a09492c2d0dc72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d425c03bb3aee75b593b2b9f20e89ec37320ff2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\8714d31f897bc262bcf682cf7a0a7330a6baac39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e3a3c8dc3e6db5655f5affc2ceb7f630f75450c0">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2963919e72cb8f8babcca1c50a960169d6d48675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\a09f64fc44efb02919de4013cf28ac2ef43e21c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e1086213a85bf2bfc3f6448d66581198ba380f69">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52b76beb2f73bf9d578cd2e268dcadbac37a1bef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\51b2df8dbcfaeafe37d40b081c85cb9bac9cf782\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e151c445b2df752341d3dc4c77d1c32de4d373f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\a7e97c60dec540388378d3542ee809ec2c253bbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55e4ec92f39ab3ebfe6aac7242cedc283eef1522\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\f6e523af902af508add796a5107eb05f93c42337\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b07b2e5154aa4cff71839789b7118b8b698a0104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\4aa8492fbb73583e5ccd655e16e340777210df73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea8b37942f8f3ef94b2ac24897e815cc175b18aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\15a59e2e145928ea53137da92a2785fe57a7dc5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="243341581f994665f19570c50ac0a61610029983">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16d18548befa02485ebacaec727d794118220fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\7f7d7c49b3167c166b365019818cdfd73183b855\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="978ba04cd179b5fc1f832074cc7c6218dac984d3">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6046eb1043a1e51b4fc523e66bfaf98bfefff4d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\3531f762679d203858e1cf11a6ac677c97caa075\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="708a0fe592963f4d06fe92048cbd139dc062e3e8">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13c575afcb96c58e61e217944183bb12b81778b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\c97fbe1aea73f46e5db5b0cd22f22c272345dcd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a291a37263a30113eb90ad7618fd7081d8c0e837">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d442131d3885bfe76b1460da0ff8c83236477855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\easyja-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="99fcc4a593e309394cc7fc45d38d5223c6b21d8d">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_864dbb6c56482509c3f8cf8ff36fac45be62c4e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\aa9df1661ed3c03f50bdd88b3211da210693449a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="51c493dd3379559cdf0b51816988f9e15d011a68">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9372a5eec033ab81518b2d76e143d78260385432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\9d49a47c6c2eb6780f9b4069c28f7dc7442ee330\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d86a74edffe2845e8f9820a6942e0318635ff54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\db0f070a7a9557d137ac92f58b271b39a4b62512\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_086ec42d311a21e2c82bc1d629cfff0018fac56b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\2e6740010611f36ab349f02d24b6c09335defe23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2138de49e5a2a94ea3a006c0f362d031c21167d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_afe5f8846916144311a255c19621f67ef943619c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_544a68dc667d4466b4c59d74631400ab280e89c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\9e1083d338e52b3ad470208c6942a887e72c6529\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="495c18cb338e91f2b412ac60cf7128385a4f7961">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_239861588ed2d9d9a966266255310022fa13d124\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\0e4db997728d9995aa84dac7258b8c8ac1d28871\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77b13e4237e3f0e0215b35b5f1971c76f1f4a817\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\9acfea5dc9a3c900cf5cbae9888bb8ec01541973\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a520fd2b11fa8186d3cfc3717c7672fae02fc386\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\63afa71a03736890334c72b1c6b0f3861fb5d4f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="D:\Projects\easyja-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9104fd0b7dbfa141f596588f50762a4b74d762b2\classes.dex" />
+    </item>
+
+</items>

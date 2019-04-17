@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lukedeighton:wheelview-0.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/cbc32a89cc54f575dacd728914c9b838a01cde07/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/cbc32a89cc54f575dacd728914c9b838a01cde07/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

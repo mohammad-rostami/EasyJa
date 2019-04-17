@@ -1,0 +1,354 @@
+[
+    {
+        "outputFile": "D:\\Projects\\easyja-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 79,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 79,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 46,
+                    "endOffset": 177
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 46,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 182,
+                    "endColumn": 51,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 51,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 51,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 51,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 66,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 66,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 64,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 64,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 61,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 61,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 59,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 59,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 64,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 64,
+                        "endOffset": 600
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Projects\\Easyja\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 79,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 79,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 46,
+                    "endOffset": 177
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 46,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 182,
+                    "endColumn": 51,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 51,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 51,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 51,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 66,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 66,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 64,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 64,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 61,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 61,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 59,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 59,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 64,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\95e59914a217af4a36d44bf95bcca5fd233f8915\\output\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 64,
+                        "endOffset": 600
+                    }
+                }
+            }
+        ]
+    }
+]

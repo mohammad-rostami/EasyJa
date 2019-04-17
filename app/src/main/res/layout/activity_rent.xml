@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fitsSystemWindows="false"
+    tools:openDrawer="start">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/main_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:animateLayoutChanges="true"
+        android:fitsSystemWindows="false"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        tools:context=".ActivityHome">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:circle="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.design.widget.AppBarLayout
+                android:layout_width="match_parent"
+                android:layout_height="56dp">
+
+                <LinearLayout
+                    android:id="@+id/toolbar_main_tb_main"
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:background="@color/colorPrimary"
+                    android:gravity="bottom"
+                    android:orientation="horizontal">
+
+                    <include layout="@layout/toolbar_main" />
+
+                </LinearLayout>
+            </android.support.design.widget.AppBarLayout>
+
+
+            <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:circle="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <com.lukedeighton.wheelview.WheelView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:repeatItems="true"
+                    app:rotatableWheelDrawable="false"
+                    app:selectionAngle="0.0"
+                    app:wheelColor="#656d78"
+                    app:wheelItemCount="2"
+                    app:wheelItemRadius="43dp"
+                    app:wheelOffsetY="0dp"
+                    app:wheelPadding="13dp"
+                    app:wheelRadius="125dp" />
+
+                <LinearLayout
+                    android:layout_width="240dp"
+                    android:layout_height="245dp"
+                    android:visibility="visible"
+                    android:layout_gravity="center"
+                    android:background="@drawable/xml_circle_white" />
+
+                <com.lukedeighton.wheelview.WheelView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:repeatItems="true"
+                    app:rotatableWheelDrawable="false"
+                    app:selectionAngle="0.0"
+                    app:wheelColor="@color/white"
+                    app:wheelItemCount="2"
+                    app:wheelItemRadius="43dp"
+                    app:wheelOffsetY="0dp"
+                    app:wheelPadding="13dp"
+                    app:wheelRadius="115dp" />
+
+                <com.lukedeighton.wheelview.WheelView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:repeatItems="true"
+                    app:rotatableWheelDrawable="false"
+                    app:selectionAngle="0.0"
+                    app:wheelColor="@color/colorPrimary"
+                    app:wheelItemCount="2"
+                    app:wheelItemRadius="43dp"
+                    app:wheelOffsetY="0dp"
+                    app:wheelPadding="13dp"
+                    app:wheelRadius="70dp" />
+
+                <com.lukedeighton.wheelview.WheelView
+                    android:id="@+id/wheelview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:repeatItems="true"
+                    app:rotatableWheelDrawable="false"
+                    app:selectionAngle="0.0"
+                    app:wheelColor="#00ffffff"
+                    app:wheelItemCount="2"
+                    app:wheelItemRadius="40dp"
+                    app:wheelOffsetY="0dp"
+                    app:wheelPadding="0dp"
+                    app:wheelRadius="160dp" />
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:tint="@color/white"
+                    android:src="@drawable/easyja3"
+                    />
+
+            </FrameLayout>
+        </LinearLayout>
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="right">
+
+    </android.support.design.widget.NavigationView>
+
+</android.support.v4.widget.DrawerLayout>

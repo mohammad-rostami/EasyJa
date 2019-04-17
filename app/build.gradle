@@ -1,0 +1,106 @@
+apply plugin: 'com.android.application'
+
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+        classpath 'io.fabric.tools:gradle:1.27.1'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+repositories {
+    jcenter()
+    mavenCentral()
+    maven { url 'https://maven.fabric.io/public' }
+    maven { url "https://jitpack.io" }
+    google()
+}
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.0'
+    defaultConfig {
+        applicationId 'ir.EasyJa'
+        manifestPlaceholders = [onesignal_app_id               : "15c11921-a34e-4bd9-9182-aa29acac808e",
+                                // Project number pulled from dashboard, local value is ignored.
+                                onesignal_google_project_number: "REMOTE"]
+        minSdkVersion 17
+        targetSdkVersion 27
+        versionCode 18
+        versionName "1.3.9"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+//            minifyEnabled true
+//            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //compile 'com.github.mirrajabi:persian-calendar-view:1.1.1'
+
+    // compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:appcompat-v7:27.1.0'
+    compile 'com.android.support:recyclerview-v7:27.1.0'
+    compile 'com.android.support:support-v4:27.1.0'
+    compile 'com.android.support:support-v13:27.1.0'
+    compile 'com.android.support:design:27.1.0'
+    compile 'com.android.support:cardview-v7:27.1.0'
+
+    compile 'uk.co.chrisjenx:calligraphy:2.3.0'
+    compile 'com.squareup.picasso:picasso:2.5.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+
+    compile 'com.onesignal:OneSignal:[3.6.5, 3.99.99]'
+    // Required for OneSignal, even if you have added FCM.
+    compile 'com.google.android.gms:play-services-gcm:12.0.1'
+    // Required for geotagging
+    compile "com.google.android.gms:play-services-location:12.0.1"
+
+    compile('com.crashlytics.sdk.android:crashlytics:2.9.4@aar') {
+        transitive = true;
+    }
+    compile 'com.jaredrummler:material-spinner:1.2.3'
+    compile 'com.shawnlin:number-picker:2.4.4'
+    compile 'com.wang.avi:library:2.1.3'
+
+    compile 'com.google.android.gms:play-services-plus:12.0.1'
+    compile 'com.google.android.gms:play-services-maps:12.0.1'
+    compile 'com.wdullaer:materialdatetimepicker:3.5.1'
+    compile 'com.github.samanzamani.persiandate:PersianDate:0.2'
+
+
+    compile(name: 'pecpayment-release', ext: 'aar')
+
+    compile 'com.mcxiaoke.volley:library:1.0.19'
+
+
+    compile 'com.github.lukedeighton:wheelview:0.4.1'
+
+    compile 'com.mohamadamin:persianmaterialdatetimepicker:1.2.1'
+
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.theartofdev.edmodo:android-image-cropper:2.7.0'
+    compile 'de.hdodenhof:circleimageview:2.2.0'
+    compile 'com.alirezaafkar:sundatepicker:2.0.8'
+
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.slider:library:1.1.5@aar'
+
+    compile 'com.github.florent37:hollyviewpager:1.0.1'
+    compile 'com.github.ksoichiro:android-observablescrollview:1.5.2'
+
+}

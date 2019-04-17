@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_crop_image.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\src\\main\\res\\menu\\menu_crop_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\menu\\options_menu.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\bc6e9d0cb8404918ea3d99500a4308b104a21518\\output\\res\\menu\\crop_image_menu.xml"
+    }
+]

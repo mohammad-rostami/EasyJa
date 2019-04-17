@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Mohammad\\.android\\build-cache\\b1100a214f6fe17f80beb6d478b9262225564ad8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 360
+                    }
+                }
+            }
+        ]
+    }
+]

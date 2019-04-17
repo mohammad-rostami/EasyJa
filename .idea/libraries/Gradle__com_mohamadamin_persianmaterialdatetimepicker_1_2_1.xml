@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mohamadamin:persianmaterialdatetimepicker-1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/29911b9f538bc133dbec71cc43ad17567c944efa/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/29911b9f538bc133dbec71cc43ad17567c944efa/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mohamadamin/persianmaterialdatetimepicker/1.2.1/e17682fe1d390827bac43b13027ae69ccc29a42d/persianmaterialdatetimepicker-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

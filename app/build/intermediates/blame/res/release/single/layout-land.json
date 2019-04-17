@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\dialog_main.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\5c477a37aef01cf8ad936f994d56cdfd69b94997\\output\\res\\layout-land\\dialog_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\mdtp_time_picker_dialog_v2.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\layout-land\\mdtp_time_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\mdtp_time_picker_dialog.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\layout-land\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\mdtp_time_title_view_v2.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\layout-land\\mdtp_time_title_view_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\mdtp_date_picker_dialog_v2.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\layout-land\\mdtp_date_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\mdtp_time_header_label.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\layout-land\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\mdtp_date_picker_dialog.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\layout-land\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\easyja-master\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\mdtp_date_picker_header_view_v2.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\layout-land\\mdtp_date_picker_header_view_v2.xml"
+    }
+]
